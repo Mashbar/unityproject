@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: e697dd7f71b120d4390435b1d6eea73a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8571384651698745122
+    second: RockSlopeSteep_0
+  - first:
+      213: 6468164952450559419
+    second: RockSlopeSteep_1
+  - first:
+      213: 8297799133868336735
+    second: RockSlopeSteep_2
+  - first:
+      213: 8239136175922034365
+    second: RockSlopeSteep_3
+  - first:
+      213: 9093776807087595639
+    second: RockSlopeSteep_4
+  - first:
+      213: 1182932771055586238
+    second: RockSlopeSteep_5
+  - first:
+      213: 304097836086469061
+    second: RockSlopeSteep_6
+  - first:
+      213: -181327208895760148
+    second: RockSlopeSteep_7
+  - first:
+      213: -2306779554683193639
+    second: RockSlopeSteep_8
+  - first:
+      213: -6222090634146937222
+    second: RockSlopeSteep_9
+  - first:
+      213: -3538470998478752890
+    second: RockSlopeSteep_10
+  - first:
+      213: 6777143424707637668
+    second: RockSlopeSteep_11
+  - first:
+      213: 9216410224045078193
+    second: RockSlopeSteep_12
+  - first:
+      213: -4365845344160110946
+    second: RockSlopeSteep_13
+  - first:
+      213: 1351988389448575018
+    second: RockSlopeSteep_14
+  - first:
+      213: 4081006162549755111
+    second: RockSlopeSteep_15
+  - first:
+      213: -6806840285037307335
+    second: RockSlopeSteep_16
+  - first:
+      213: -3976615472194009002
+    second: RockSlopeSteep_17
+  - first:
+      213: 2155069247266581489
+    second: RockSlopeSteep_18
+  - first:
+      213: 1399942161062306104
+    second: RockSlopeSteep_19
+  - first:
+      213: -692534899218457182
+    second: RockSlopeSteep_20
+  - first:
+      213: -2794189969215502386
+    second: RockSlopeSteep_21
+  - first:
+      213: 719021197264313281
+    second: RockSlopeSteep_22
+  - first:
+      213: 7184174235470916454
+    second: RockSlopeSteep_23
+  - first:
+      213: -4419809638739024595
+    second: RockSlopeSteep_24
+  - first:
+      213: -2242477474231601590
+    second: RockSlopeSteep_25
+  - first:
+      213: -4457287030328624083
+    second: RockSlopeSteep_26
+  - first:
+      213: 8744421965255247721
+    second: RockSlopeSteep_27
+  - first:
+      213: -6060547726901516800
+    second: RockSlopeSteep_28
+  - first:
+      213: 4635704653577625795
+    second: RockSlopeSteep_29
+  - first:
+      213: 9031579044338997497
+    second: RockSlopeSteep_30
+  - first:
+      213: 5400075158969939147
+    second: RockSlopeSteep_31
+  - first:
+      213: -114161234286913506
+    second: RockSlopeSteep_32
+  - first:
+      213: -318888861531342358
+    second: RockSlopeSteep_33
+  - first:
+      213: 1790303672494700344
+    second: RockSlopeSteep_34
+  - first:
+      213: 236810931621316159
+    second: RockSlopeSteep_35
+  - first:
+      213: -8676973044438036985
+    second: RockSlopeSteep_36
+  - first:
+      213: 594213644477719888
+    second: RockSlopeSteep_37
+  - first:
+      213: -9071614855791892705
+    second: RockSlopeSteep_38
+  - first:
+      213: 2831192599634698897
+    second: RockSlopeSteep_39
+  - first:
+      213: -7087547773110676054
+    second: RockSlopeSteep_40
+  - first:
+      213: 6188506161388870206
+    second: RockSlopeSteep_41
+  - first:
+      213: -525463009542654399
+    second: RockSlopeSteep_42
+  - first:
+      213: 6370004015468267552
+    second: RockSlopeSteep_43
+  - first:
+      213: -6987942653832997965
+    second: RockSlopeSteep_44
+  - first:
+      213: 7412781359422155001
+    second: RockSlopeSteep_45
+  - first:
+      213: -7021909139864926339
+    second: RockSlopeSteep_46
+  - first:
+      213: -2694021434976075373
+    second: RockSlopeSteep_47
+  - first:
+      213: -1120703916816372162
+    second: RockSlopeSteep_48
+  - first:
+      213: -6856395221440571980
+    second: RockSlopeSteep_49
+  - first:
+      213: -3970794753126185481
+    second: RockSlopeSteep_50
+  - first:
+      213: 8217492185391814997
+    second: RockSlopeSteep_51
+  - first:
+      213: 7399947635603522639
+    second: RockSlopeSteep_52
+  - first:
+      213: -2195632712899700345
+    second: RockSlopeSteep_53
+  - first:
+      213: -3376294459719691747
+    second: RockSlopeSteep_54
+  - first:
+      213: -2741382585080644546
+    second: RockSlopeSteep_55
+  - first:
+      213: 7140110553147917980
+    second: RockSlopeSteep_56
+  - first:
+      213: -7712559987407152798
+    second: RockSlopeSteep_57
+  - first:
+      213: 5258185452253739272
+    second: RockSlopeSteep_58
+  - first:
+      213: 378367743716215421
+    second: RockSlopeSteep_59
+  - first:
+      213: 4620712611410181252
+    second: RockSlopeSteep_60
+  - first:
+      213: 1653718940271418721
+    second: RockSlopeSteep_61
+  - first:
+      213: -2040092110517790194
+    second: RockSlopeSteep_62
+  - first:
+      213: -5802159173535198709
+    second: RockSlopeSteep_63
+  - first:
+      213: -4222793342410518425
+    second: RockSlopeSteep_64
+  - first:
+      213: 7315397973475816767
+    second: RockSlopeSteep_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockSlopeSteep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2db57deca3f670800000000000000
+      internalID: 8571384651698745122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: -9}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd627321c983c950800000000000000
+      internalID: 6468164952450559419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -9}
+        - {x: -6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5624cf3954b72370800000000000000
+      internalID: 8297799133868336735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db637edf2ba475270800000000000000
+      internalID: 8239136175922034365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770642d33d5933e70800000000000000
+      internalID: 9093776807087595639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbcfeb761f9a6010800000000000000
+      internalID: 1182932771055586238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c126e8ee5f583400800000000000000
+      internalID: 304097836086469061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -6, y: 16}
+        - {x: 16, y: 0}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b7ad3ddbcb7df0800000000000000
+      internalID: -181327208895760148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d679f3873cacffd0800000000000000
+      internalID: -2306779554683193639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760367c881b6a9a0800000000000000
+      internalID: -6222090634146937222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f6afdf53d4eec0800000000000000
+      internalID: -3538470998478752890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b295b9004d0e50800000000000000
+      internalID: 6777143424707637668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63c74a44447ef70800000000000000
+      internalID: 9216410224045078193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962b0d6ac66963c0800000000000000
+      internalID: -4365845344160110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e88de64a33c210800000000000000
+      internalID: 1351988389448575018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec45f49b75a2a830800000000000000
+      internalID: 4081006162549755111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a588f23de3981a0800000000000000
+      internalID: -6806840285037307335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658cd8b0c4930d8c0800000000000000
+      internalID: -3976615472194009002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlopeSteep_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb61b5ff0858ed10800000000000000
+      internalID: 2155069247266581489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
